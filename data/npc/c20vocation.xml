@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="C20 vocation" script="c20vocation.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="774"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de comprar um {c20 vocation} por apenas 200 wars goldens ?. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

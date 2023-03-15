@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>       
+ <globalevent name="AntiClone" type="start" event="script" value="Check.lua"/>
+<globalevent name="HouseClean" time="03:00" event="script" value="houseclean.lua"/>
+ <globalevent name="texto" interval="1000" script="texto.lua" />
+  <globalevent name="invasion" time="21:02" event="script" value="invasion.lua"/>
+<globalevent name="invasions" time="18:00" event="script" value="invasions.lua"/>        
+  <event type="login" name="Mensagem" script="msg.lua"/>
+<globalevent name="effects" interval="1500" script="texto1.lua"/>	
+        <globalevent name="prop" interval="130000" event="script" value="Propaganda.lua"/>
+        <globalevent name="save" interval="600000" event="script" value="save.lua"/>
+	<globalevent name="clean" interval="1800000" event="script" value="clean.lua"/>
+	<globalevent name="magic-effect" interval="5000" event="script" value="playereffect.lua"/>
+	<globalevent name="piccolo-effect" interval="1300" event="script" value="piccoloeffect.lua"/>
+        <globalevent name="init" type="startup" event="script" value="init.lua"/>
+	<globalevent name="globalsave" type="globalsave" event="script" value="init.lua"/>
+	<globalevent name="record" type="record" event="script" value="record.lua"/>
+	<globalevent name="ZombieGlobalThink" interval="5000" event="script" value="zombie/onthink.lua"/>
+	<globalevent name="ZombieGlobalStartup" type="start" event="script" value="zombie/onstartup.lua"/>
+	<globalevent name="GlobalBattle" interval="60000" event="script" value="BattleGlobalEvents.lua"/>
+	<globalevent name="OpenCastle" time="19:30" event="script" value="tpcastle.lua"/>
+	<globalevent name="CloseCastle" time="21:00" event="script" value="tpcastle.lua"/>
+	<globalevent name="OpenTpAutomatico" time="19:20" event="script" value="tpautomatico.lua"/>
+	<globalevent name="CloseTpAutomatico" time="19:25" event="script" value="tpautomatico.lua"/>
+	<globalevent name="OpenTpAutomatico2" time="19:40" event="script" value="tpautomatico.lua"/>
+	<globalevent name="CloseTpAutomatico2" time="19:45" event="script" value="tpautomatico.lua"/>
+	<globalevent name="OpenTpAutomatico3" time="20:00" event="script" value="tpautomatico.lua"/>
+	<globalevent name="CloseTpAutomatico3" time="20:05" event="script" value="tpautomatico.lua"/>
+	<globalevent name="OpenTpAutomatico4" time="20:20" event="script" value="tpautomatico.lua"/>
+	<globalevent name="CloseTpAutomatico4" time="20:25" event="script" value="tpautomatico.lua"/>
+	<globalevent name="OpenTpAutomatico5" time="20:40" event="script" value="tpautomaticolast.lua"/>
+	<globalevent name="CloseTpAutomatico5" time="20:45" event="script" value="tpautomaticolast.lua"/>
+	<globalevent name="lottery" interval="10800000" event="script" value="lottery.lua"/>
+</globalevents>

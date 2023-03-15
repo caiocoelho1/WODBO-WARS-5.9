@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Botamo Vocation" script="botamovocation.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="887"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de comprar um {botamo vocation} por apenas 5000 demonic essences ?. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

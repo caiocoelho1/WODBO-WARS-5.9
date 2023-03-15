@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Criterios Saga" script="saga.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="150"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! você já tem os 15 upgrades refiners? então compre os 15 upgrades refiners e fale {saga shield} . Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

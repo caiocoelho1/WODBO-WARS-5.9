@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Arabian Amulet" script="arabianamulets.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="478"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de trocar um undeworld helmet por um {arabian amulet} ?. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

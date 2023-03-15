@@ -1,0 +1,13 @@
+function onUse(cid, item, frompos, item2, topos)
+	if item.uid == 60072 then
+		if getPlayerStorageValue(cid,60072) == -1 then
+			doPlayerSendTextMessage(cid,25,"Voce ganhou um arco infer e uma inferball !")
+			doPlayerAddItem(cid,2361,1)
+                                           doPlayerAddItem(cid,8854,1)
+			setPlayerStorageValue(cid,60072,1)
+		else
+			doPlayerSendTextMessage(cid,25,"Voce já recebeu seu item.")
+		end
+		return true
+	end
+end

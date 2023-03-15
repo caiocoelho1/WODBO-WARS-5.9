@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Grave Senzu Seller" script="gravesenzu.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="234"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de comprar um {grave senzu} por apenas 1500 eliezer coins ?. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

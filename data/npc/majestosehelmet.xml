@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Majestose Helmet" script="majestosehelmet.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="637"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de comprar um {majestose helmet} por apenas 100 Wars Souls Points ?. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

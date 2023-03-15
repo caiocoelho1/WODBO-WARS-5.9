@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Bills Quest Free" script="npcbillsquest.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="513"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de pegar um {bills quest} por apenas 5k de golds ?. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

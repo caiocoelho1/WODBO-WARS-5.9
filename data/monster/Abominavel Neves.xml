@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Abominavel Neves" nameDescription="an Abominavel Neves" race="blood" experience="4000000" speed="600" manacost="0">
+	<health now="300000000" max="300000000"/>
+	<look type="728" head="1" body="1" legs="1" feet="1" addons="0" corpse="12850"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-25000" max="-30000"/>
+		<attack name="energy shyotu" interval="1000" chance="50" min="-75000" max="-97000"/>
+		<attack name="hell cannon" interval="2000" chance="35" min="-60000" max="-95000"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="0"/>
+		<immunity outfit="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Feliz Natal!"/>
+	</voices>
+		<loot>
+			<item id="2444" countmax="1" chance="99999999"/> <!-- Horned vip Sword -->
+		</loot>
+</monster>

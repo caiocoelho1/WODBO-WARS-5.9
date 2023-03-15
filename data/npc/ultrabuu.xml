@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Buu Ultra God" script="ultrabuu.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="863"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de pegar {ultra god} por apenas 2000 Wars goldens ?. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

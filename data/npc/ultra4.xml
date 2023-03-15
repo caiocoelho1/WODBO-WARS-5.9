@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Chiled Ultra God" script="ultra4.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="807"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de pegar a {ultra god} por apenas 2000 Wars goldens ?. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

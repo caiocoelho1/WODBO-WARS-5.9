@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Travel Wars" script="travel.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="943"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Digite o nome do local que deseja se teletransportar: {Earth}, {Sand City}, {M2}, {Tsufur}, {Zelta}, {Vegeta}, {Namek}, {Lude}, {Premia}, {Boar's Island}, {Ruudo}, {City 17}, {Boss City}, {Arena Quest}, {Gardia}, {Bills Island} , {halloween City} , {Mordor} , {Croner Invasion} , {Kanasa}, {Multi Wolrd} , {Multi Wolrd} , {Arabian City} , {Ice Kong City} , {Flasher City} , {Vehemence City} , {stream city} , {Kazhel} , {Divindade City} , {Dabura island} , {Quest Ultragod} , {Frozen island} , {Monaka Island} ."/>
+	</parameters>
+</npc>

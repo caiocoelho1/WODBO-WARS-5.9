@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Acesso [Planet]" script="acessoplanet.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="125"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de pegar o {acesso planet} por 2k de Planet Coins ? você dropa eles do monstro [Mark] na Nave Amarela procure a cave. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

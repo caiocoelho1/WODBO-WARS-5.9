@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Vegetto Quest" script="vegetto.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="315"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu Entrego a Vocation Vegetto por 3mil Golds. Diga {Trade}."/>
+		<parameter key="shop_buyable" value="Hp Potion,13485,30000000"/>
+	</parameters>
+</npc>

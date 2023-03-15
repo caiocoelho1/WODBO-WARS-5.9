@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Stamina Seller" script="staminaseller.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="234"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de comprar uma {stamina potion} por apenas 400 tailons ?. Você não vai se arrepender ela deixa sua stamina 42 horas, pense bem."/>
+	</parameters>
+</npc>

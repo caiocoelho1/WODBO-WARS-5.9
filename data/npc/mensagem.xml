@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Aviso Importante" script="mensagem.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="632"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! {Não entre em nenhum link de enviado por nenhum Player Estão enviando links para roubar sua senha e roubar seus itens e também não entrem em servidores }{anunciados aqui porque é tudo para te roubar ,não caia nessa ..não se responsabilizamos por nada roubado nada e não vamos devolver nada agora acorde pra vida e deixe de ser inocente} ."/>
+	</parameters>
+</npc>

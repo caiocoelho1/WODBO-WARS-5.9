@@ -1,0 +1,327 @@
+[26/02/2015 13:01:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 13:05:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 16:07:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 16:55:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 17:31:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 18:49:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 00:21:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 00:50:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 13:17:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 14:05:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 16:20:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 16:24:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 16:28:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 17:42:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 18:32:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 19:06:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 21:36:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 21:44:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 22:16:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2015 12:59:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2015 13:01:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2015 23:31:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2015 06:31:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2015 12:42:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 13:47:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 13:55:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 13:58:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 14:01:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 14:02:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2015 00:30:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2015 15:53:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2015 17:15:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2015 22:57:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 00:17:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 00:31:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 01:16:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 01:31:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 01:34:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 02:06:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 02:17:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 02:45:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 04:47:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 05:07:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 05:16:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 11:34:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:29:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:33:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:43:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:48:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:50:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 13:05:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 13:07:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 15:41:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 15:52:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 16:24:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 16:41:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 16:55:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 17:32:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 05:25:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 06:03:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 06:17:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 09:00:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 09:07:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 12:03:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 16:09:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 16:31:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 16:33:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 17:25:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 17:38:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 17:50:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 18:23:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2015 02:38:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 09:53:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 09:54:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 09:57:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 10:00:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 10:08:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 10:18:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 12:26:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 12:29:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2015 07:59:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/03/2015 13:46:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/03/2015 14:05:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/03/2015 16:37:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 07:58:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 08:06:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 12:29:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 12:53:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 12:55:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 21:24:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 21:25:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 23:44:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2015 16:08:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2015 19:09:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/03/2015 06:30:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/03/2015 19:51:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2015 11:41:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2015 08:54:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2015 06:54:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/04/2015 03:20:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/07/2016 21:33:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/07/2016 21:41:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/07/2016 22:00:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/07/2016 22:52:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/07/2016 23:04:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/07/2016 01:42:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/07/2016 18:46:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/07/2016 19:33:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/07/2016 03:43:48]  :: Houses cleaned:
+
+There were no houses to clean.

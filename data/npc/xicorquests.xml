@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Xicor Quest" script="xicorquests.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="733"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de comprar um {xicor vocation} por apenas 100 shadow essences ?. Você consegue elas em vehemence city dropando dos shadow killer, pense bem."/>
+	</parameters>
+</npc>

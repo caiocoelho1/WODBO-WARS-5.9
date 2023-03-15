@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="APRENDA A [DONATAR]" script="mensagemdonate.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="149"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de aprender a donatar? então acesse esse link e assista esse video {https://youtu.be/S7x2xjlEXF0} seus pontos serão entregues no mesmo dia. Você não vai se arrepender, pense bem."/>
+	</parameters>
+</npc>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="POI [QUEST]" script="vestinger.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="399"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Digite o nome da ilha vestinger para poder viajar:  {poi quest}, ."/>
+	</parameters>
+</npc>
