@@ -1,217 +1,198 @@
-[15/3/2023 10:52:14] > Using SHA1 encryption
-[15/3/2023 10:52:14] >> Loading RSA key
-[15/3/2023 10:52:14] >> Starting SQL connection
-[15/3/2023 10:52:14] >> Running Database Manager
-[15/3/2023 10:52:14] > Optimizing table: account_viplist... [success]
-[15/3/2023 10:52:14] > Optimizing table: accounts... [success]
-[15/3/2023 10:52:14] > Optimizing table: bans... [success]
-[15/3/2023 10:52:14] > Optimizing table: comments... [success]
-[15/3/2023 10:52:14] > Optimizing table: environment_killers... [success]
-[15/3/2023 10:52:14] > Optimizing table: forums... [success]
-[15/3/2023 10:52:14] > Optimizing table: friends... [success]
-[15/3/2023 10:52:14] > Optimizing table: global_storage... [success]
-[15/3/2023 10:52:14] > Optimizing table: guild_invites... [success]
-[15/3/2023 10:52:14] > Optimizing table: guild_kills... [success]
-[15/3/2023 10:52:14] > Optimizing table: guild_ranks... [success]
-[15/3/2023 10:52:14] > Optimizing table: guild_wars... [success]
-[15/3/2023 10:52:14] > Optimizing table: guilds... [success]
-[15/3/2023 10:52:14] > Optimizing table: house_auctions... [success]
-[15/3/2023 10:52:14] > Optimizing table: house_data... [success]
-[15/3/2023 10:52:14] > Optimizing table: house_lists... [success]
-[15/3/2023 10:52:14] > Optimizing table: houses... [success]
-[15/3/2023 10:52:14] > Optimizing table: killers... [success]
-[15/3/2023 10:52:14] > Optimizing table: login_history... [success]
-[15/3/2023 10:52:14] > Optimizing table: market_history... [success]
-[15/3/2023 10:52:14] > Optimizing table: market_offers... [success]
-[15/3/2023 10:52:14] > Optimizing table: messages... [success]
-[15/3/2023 10:52:14] > Optimizing table: news... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_deaths... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_depotitems... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_inboxitems... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_items... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_killers... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_namelocks... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_skills... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_spells... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_statements... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_storage... [success]
-[15/3/2023 10:52:14] > Optimizing table: player_viplist... [success]
-[15/3/2023 10:52:14] > Optimizing table: players... [success]
-[15/3/2023 10:52:14] > Optimizing table: server_config... [success]
-[15/3/2023 10:52:15] > Optimizing table: server_motd... [success]
-[15/3/2023 10:52:15] > Optimizing table: server_record... [success]
-[15/3/2023 10:52:15] > Optimizing table: server_reports... [success]
-[15/3/2023 10:52:15] > Optimizing table: tile_items... [success]
-[15/3/2023 10:52:15] > Optimizing table: tile_store... [success]
-[15/3/2023 10:52:15] > Optimizing table: tiles... [success]
-[15/3/2023 10:52:15] > Optimizing table: video_comments... [success]
-[15/3/2023 10:52:15] > Optimizing table: videos... [success]
-[15/3/2023 10:52:15] >> Loading items (OTB)
-[15/3/2023 10:52:15] >> Loading items (XML)
-[15/3/2023 10:52:15] >> Loading groups
-[15/3/2023 10:52:15] >> Loading vocations
-[15/3/2023 10:52:15] >> Loading outfits
-[15/3/2023 10:52:15] >> Loading chat channels
-[15/3/2023 10:52:15] >> Loading script systems
-[15/3/2023 10:52:15] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7414
-[15/3/2023 10:52:15] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7423
-[15/3/2023 10:52:15] [Warning - Weapons::registerEvent] Duplicate registered item with id: 8851
-[15/3/2023 10:52:15] [Warning - Weapons::registerEvent] Duplicate registered item with id: 8854
-[15/3/2023 10:52:15] [Warning - Actions::registerEvent] Duplicate registered item id: 5952
-[15/3/2023 10:52:15] [Warning - Actions::registerEvent] Duplicate registered item uid: 61002
-[15/3/2023 10:52:15] [Warning - TalkAction::registerEvent] Duplicate registered talkaction with words: 
-[15/3/2023 10:52:15] [Warning - MoveEvent::configureMoveEvent] Unknown slot type "body"
-[15/3/2023 10:52:15] [Warning - MoveEvent::configureMoveEvent] Unknown slot type "body"
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 2476
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 2476
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 2408
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 2475
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 2475
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 12604
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 12604
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 2494
-[15/3/2023 10:52:15] [Warning - MoveEvents::addEvent] Duplicate move event found: 2494
-[15/3/2023 10:52:15] [Warning - Event::loadScript] Event onTime not found (data/globalevents/scripts/houseclean.lua)
-[15/3/2023 10:52:15] >> Loading mods...
-[15/3/2023 10:52:15] > Loading ExpPotion.xml... done.
-[15/3/2023 10:52:15] > Loading Run Event.xml... done.
-[15/3/2023 10:52:15] > Loading Simple Task.xml... done.
-[15/3/2023 10:52:15] > 3 mods were loaded.
-[15/3/2023 10:52:15] >> Loading experience stages
-[15/3/2023 10:52:15] >> Loading monsters
-[15/3/2023 10:52:15] [Warning - Monsters::loadMonster] Cannot load monster (Mumy WarsPlanet) file (data/monster/Mumy WarsPlanet.xml).
-[15/3/2023 10:52:15] Info: failed to load external entity "data/monster/Mumy WarsPlanet.xml"
+[19/3/2023 14:29:23] > Using SHA1 encryption
+[19/3/2023 14:29:23] >> Loading RSA key
+[19/3/2023 14:29:23] >> Starting SQL connection
+[19/3/2023 14:29:23] >> Running Database Manager
+[19/3/2023 14:29:23] > Optimizing table: account_viplist... [success]
+[19/3/2023 14:29:23] > Optimizing table: accounts... [success]
+[19/3/2023 14:29:23] > Optimizing table: bans... [success]
+[19/3/2023 14:29:23] > Optimizing table: comments... [success]
+[19/3/2023 14:29:23] > Optimizing table: environment_killers... [success]
+[19/3/2023 14:29:23] > Optimizing table: forums... [success]
+[19/3/2023 14:29:23] > Optimizing table: friends... [success]
+[19/3/2023 14:29:23] > Optimizing table: global_storage... [success]
+[19/3/2023 14:29:23] > Optimizing table: guild_kills... [success]
+[19/3/2023 14:29:23] > Optimizing table: guild_ranks... [success]
+[19/3/2023 14:29:23] > Optimizing table: guild_wars... [success]
+[19/3/2023 14:29:23] > Optimizing table: guilds... [success]
+[19/3/2023 14:29:23] > Optimizing table: house_auctions... [success]
+[19/3/2023 14:29:23] > Optimizing table: house_data... [success]
+[19/3/2023 14:29:23] > Optimizing table: house_lists... [success]
+[19/3/2023 14:29:23] > Optimizing table: houses... [success]
+[19/3/2023 14:29:23] > Optimizing table: killers... [success]
+[19/3/2023 14:29:23] > Optimizing table: login_history... [success]
+[19/3/2023 14:29:23] > Optimizing table: market_history... [success]
+[19/3/2023 14:29:23] > Optimizing table: market_offers... [success]
+[19/3/2023 14:29:24] > Optimizing table: messages... [success]
+[19/3/2023 14:29:24] > Optimizing table: news... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_deaths... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_depotitems... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_inboxitems... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_items... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_killers... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_namelocks... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_skills... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_spells... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_statements... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_storage... [success]
+[19/3/2023 14:29:24] > Optimizing table: player_viplist... [success]
+[19/3/2023 14:29:24] > Optimizing table: players... [success]
+[19/3/2023 14:29:24] > Optimizing table: server_config... [success]
+[19/3/2023 14:29:24] > Optimizing table: server_motd... [success]
+[19/3/2023 14:29:24] > Optimizing table: server_record... [success]
+[19/3/2023 14:29:24] > Optimizing table: server_reports... [success]
+[19/3/2023 14:29:24] > Optimizing table: tile_items... [success]
+[19/3/2023 14:29:24] > Optimizing table: tile_store... [success]
+[19/3/2023 14:29:24] > Optimizing table: tiles... [success]
+[19/3/2023 14:29:24] > Optimizing table: video_comments... [success]
+[19/3/2023 14:29:24] > Optimizing table: videos... [success]
+[19/3/2023 14:29:24] >> Loading items (OTB)
+[19/3/2023 14:29:24] >> Loading items (XML)
+[19/3/2023 14:29:24] >> Loading groups
+[19/3/2023 14:29:24] >> Loading vocations
+[19/3/2023 14:29:24] >> Loading outfits
+[19/3/2023 14:29:24] >> Loading chat channels
+[19/3/2023 14:29:24] >> Loading script systems
+[19/3/2023 14:29:24] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7414
+[19/3/2023 14:29:24] [Warning - Weapons::registerEvent] Duplicate registered item with id: 7423
+[19/3/2023 14:29:24] [Warning - Weapons::registerEvent] Duplicate registered item with id: 8851
+[19/3/2023 14:29:24] [Warning - Weapons::registerEvent] Duplicate registered item with id: 8854
+[19/3/2023 14:29:24] [Warning - Actions::registerEvent] Duplicate registered item id: 5952
+[19/3/2023 14:29:24] [Warning - Actions::registerEvent] Duplicate registered item uid: 61002
+[19/3/2023 14:29:24] [Warning - TalkAction::registerEvent] Duplicate registered talkaction with words: 
+[19/3/2023 14:29:24] [Warning - MoveEvent::configureMoveEvent] Unknown slot type "body"
+[19/3/2023 14:29:24] [Warning - MoveEvent::configureMoveEvent] Unknown slot type "body"
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 2476
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 2476
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 2408
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 2475
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 2475
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 12604
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 12604
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 2494
+[19/3/2023 14:29:24] [Warning - MoveEvents::addEvent] Duplicate move event found: 2494
+[19/3/2023 14:29:24] [Warning - Event::loadScript] Event onTime not found (data/globalevents/scripts/houseclean.lua)
+[19/3/2023 14:29:24] >> Loading mods...
+[19/3/2023 14:29:24] > Loading ExpPotion.xml... done.
+[19/3/2023 14:29:24] > Loading Run Event.xml... done.
+[19/3/2023 14:29:25] > Loading Simple Task.xml... done.
+[19/3/2023 14:29:25] > 3 mods were loaded.
+[19/3/2023 14:29:25] >> Loading experience stages
+[19/3/2023 14:29:25] >> Loading monsters
+[19/3/2023 14:29:25] [Warning - Monsters::loadMonster] Cannot load monster (Mumy WarsPlanet) file (data/monster/Mumy WarsPlanet.xml).
+[19/3/2023 14:29:25] Info: failed to load external entity "data/monster/Mumy WarsPlanet.xml"
 
 
-[15/3/2023 10:52:15] [Warning - Monsters::loadMonster] Duplicate registered monster with name: Croner
-[15/3/2023 10:52:15] >> Loading map and spawns...
-[15/3/2023 10:52:15] > Map size: 2000x2000.
-[15/3/2023 10:52:15] > Map descriptions: 
-[15/3/2023 10:52:15] "Saved with Remere's Map Editor 2.2"
-[15/3/2023 10:52:15] "Edited By R.M"
-[15/3/2023 10:52:16] Duplicate uniqueId 61003
-[15/3/2023 10:52:16] [Warning - IOMap::loadMap] Movable item in house: 379, item type: 9956, pos 791/170/7
-[15/3/2023 10:52:16] Duplicate uniqueId 5788
-[15/3/2023 10:52:16] Duplicate uniqueId 60068
-[15/3/2023 10:52:17] Duplicate uniqueId 61002
-[15/3/2023 10:52:17] Duplicate uniqueId 61002
-[15/3/2023 10:52:17] Duplicate uniqueId 61002
-[15/3/2023 10:52:17] Duplicate uniqueId 61002
-[15/3/2023 10:52:17] Duplicate uniqueId 61002
-[15/3/2023 10:52:17] Duplicate uniqueId 60020
-[15/3/2023 10:52:17] Duplicate uniqueId 60020
-[15/3/2023 10:52:18] Duplicate uniqueId 60072
-[15/3/2023 10:52:18] Duplicate uniqueId 60072
-[15/3/2023 10:52:18] Duplicate uniqueId 61000
-[15/3/2023 10:52:18] Duplicate uniqueId 61000
-[15/3/2023 10:52:18] Duplicate uniqueId 61000
-[15/3/2023 10:52:18] Duplicate uniqueId 60035
-[15/3/2023 10:52:18] Duplicate uniqueId 60035
-[15/3/2023 10:52:18] Duplicate uniqueId 61001
-[15/3/2023 10:52:18] Duplicate uniqueId 61001
-[15/3/2023 10:52:18] Duplicate uniqueId 61001
-[15/3/2023 10:52:18] Duplicate uniqueId 61004
-[15/3/2023 10:52:18] Duplicate uniqueId 61004
-[15/3/2023 10:52:18] Duplicate uniqueId 61003
-[15/3/2023 10:52:19] > Map loading time: 3.448 seconds.
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Shadow Warrior"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Mini Minako"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Mini Minako"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Mini Minako"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Mini Minako"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Mini Minako"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Mini Minako"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Tiger"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Wyrm"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Dark Torturer"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Lavahole"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Lavahole"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Dark Torturer"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Behemoth"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Dark Abominator"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Apocalypse"
-[15/3/2023 10:52:19] [Spawn::addMonster] Cannot find "Blightwalker"
-[15/3/2023 10:52:19] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/vadosquest.xml).
-[15/3/2023 10:52:19] Info: failed to load external entity "data/npc/vadosquest.xml"
+[19/3/2023 14:29:25] [Warning - Monsters::loadMonster] Duplicate registered monster with name: Croner
+[19/3/2023 14:29:25] >> Loading map and spawns...
+[19/3/2023 14:29:25] > Map size: 2000x2000.
+[19/3/2023 14:29:25] > Map descriptions: 
+[19/3/2023 14:29:25] "Saved with Remere's Map Editor 2.2"
+[19/3/2023 14:29:25] "Edited By R.M"
+[19/3/2023 14:29:25] Duplicate uniqueId 61003
+[19/3/2023 14:29:25] [Warning - IOMap::loadMap] Movable item in house: 379, item type: 9956, pos 791/170/7
+[19/3/2023 14:29:25] Duplicate uniqueId 5788
+[19/3/2023 14:29:26] Duplicate uniqueId 60068
+[19/3/2023 14:29:27] Duplicate uniqueId 61002
+[19/3/2023 14:29:27] Duplicate uniqueId 61002
+[19/3/2023 14:29:27] Duplicate uniqueId 61002
+[19/3/2023 14:29:27] Duplicate uniqueId 61002
+[19/3/2023 14:29:27] Duplicate uniqueId 61002
+[19/3/2023 14:29:27] Duplicate uniqueId 60020
+[19/3/2023 14:29:27] Duplicate uniqueId 60020
+[19/3/2023 14:29:27] Duplicate uniqueId 60072
+[19/3/2023 14:29:27] Duplicate uniqueId 60072
+[19/3/2023 14:29:28] Duplicate uniqueId 61000
+[19/3/2023 14:29:28] Duplicate uniqueId 61000
+[19/3/2023 14:29:28] Duplicate uniqueId 61000
+[19/3/2023 14:29:28] Duplicate uniqueId 60035
+[19/3/2023 14:29:28] Duplicate uniqueId 60035
+[19/3/2023 14:29:28] Duplicate uniqueId 61001
+[19/3/2023 14:29:28] Duplicate uniqueId 61001
+[19/3/2023 14:29:28] Duplicate uniqueId 61001
+[19/3/2023 14:29:28] Duplicate uniqueId 61004
+[19/3/2023 14:29:28] Duplicate uniqueId 61004
+[19/3/2023 14:29:28] Duplicate uniqueId 61003
+[19/3/2023 14:29:28] > Map loading time: 3.367 seconds.
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Shadow Warrior"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Mini Minako"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Mini Minako"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Mini Minako"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Mini Minako"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Mini Minako"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Mini Minako"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Tiger"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Wyrm"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Dark Torturer"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Lavahole"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Lavahole"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Dark Torturer"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Behemoth"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Dark Abominator"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Apocalypse"
+[19/3/2023 14:29:28] [Spawn::addMonster] Cannot find "Blightwalker"
+[19/3/2023 14:29:28] [Warning - Npc::loadFromXml] Cannot load npc file (data/npc/vadosquest.xml).
+[19/3/2023 14:29:28] Info: failed to load external entity "data/npc/vadosquest.xml"
 
 
-[15/3/2023 10:52:19] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (162)
-[15/3/2023 10:52:19] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (165)
-[15/3/2023 10:52:19] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (166)
-[15/3/2023 10:52:19] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (168)
-[15/3/2023 10:52:19] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (169)
-[15/3/2023 10:52:19] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (187)
-[15/3/2023 10:52:19] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (479)
-[15/3/2023 10:52:19] > Data parsing time: 0.336 seconds.
-[15/3/2023 10:52:19] > Houses synchronization time: 0.396 seconds.
-[15/3/2023 10:52:19] > Content unserialization time: 0.121 seconds.
-[15/3/2023 10:52:19] >> Checking world type... Open PvP
-[15/3/2023 10:52:19] >> Initializing game state and binding services...
-[15/3/2023 10:52:20] > Global IP address: 127.0.0.1
-[15/3/2023 10:52:20] > Local IP address(es): 192.168.15.8	
-[15/3/2023 10:52:20] > Bound ports: 7171	7172	
-[15/3/2023 10:52:20] >> Everything smells good, server is starting up...
-[15/3/2023 10:52:20] >> WODBO WARS ONLINE server Online!
+[19/3/2023 14:29:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (162)
+[19/3/2023 14:29:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (165)
+[19/3/2023 14:29:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (166)
+[19/3/2023 14:29:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (168)
+[19/3/2023 14:29:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (169)
+[19/3/2023 14:29:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (187)
+[19/3/2023 14:29:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (479)
+[19/3/2023 14:29:28] > Data parsing time: 0.361 seconds.
+[19/3/2023 14:29:29] > Houses synchronization time: 0.401 seconds.
+[19/3/2023 14:29:29] > Content unserialization time: 0.128 seconds.
+[19/3/2023 14:29:29] >> Checking world type... Open PvP
+[19/3/2023 14:29:29] >> Initializing game state and binding services...
+[19/3/2023 14:29:29] > Global IP address: 179.118.208.24
+[19/3/2023 14:29:29] > Local IP address(es): 192.168.15.8	
+[19/3/2023 14:29:29] > Bound ports: 7171	7172	
+[19/3/2023 14:29:29] >> Everything smells good, server is starting up...
+[19/3/2023 14:29:29] >> WODBO WARS ONLINE server Online!
 
-[15/3/2023 10:52:24] Vamos ver has logged in.
-
-[15/3/2023 10:53:25] [Error - TalkAction Interface] 
-[15/3/2023 10:53:25] data/talkactions/scripts/creature.lua:onSay
-[15/3/2023 10:53:25] Description: 
-[15/3/2023 10:53:25] (luaDoCreateMonster) Monster with name 'majin buu' not found
-[15/3/2023 11:2:14] Vamos ver has logged out.
-[15/3/2023 11:2:16] > Saving server...
-[15/3/2023 11:2:16] > SAVE: Complete in 0.215 seconds using relational house storage.
-[15/3/2023 11:2:19] Vamos vers has logged in.
-[15/3/2023 11:10:53] Vamos vers has logged out.
-[15/3/2023 11:10:58] Vamos ver has logged in.
-[15/3/2023 11:12:16] > Saving server...
-[15/3/2023 11:12:16] > SAVE: Complete in 0.234 seconds using relational house storage.
-[15/3/2023 11:19:33] Vamos ver has logged out.
-[15/3/2023 11:19:38] Vamos vers has logged in.
-[15/3/2023 11:20:13] Vamos vers has logged out.
-[15/3/2023 11:20:15] Vamos vers has logged in.
-[15/3/2023 11:21:23] Vamos vers has logged out.
-[15/3/2023 11:21:24] Vamos vers has logged in.
-[15/3/2023 11:22:16] > Saving server...
-[15/3/2023 11:22:16] > SAVE: Complete in 0.231 seconds using relational house storage.
-[15/3/2023 11:22:25] > CLEAN: Removed 13 items from 31 tiles (31 were marked) in 0 seconds.
-[15/3/2023 11:27:3] Vamos vers has logged out.
-[15/3/2023 11:27:8] Vamos vers has logged in.
-[15/3/2023 11:28:50] Vamos vers has logged out.
-[15/3/2023 11:28:52] Vamos vers has logged in.
-[15/3/2023 11:32:16] > Saving server...
-[15/3/2023 11:32:16] > SAVE: Complete in 0.218 seconds using relational house storage.
-[15/3/2023 11:33:18] Vamos vers has logged out.
-[15/3/2023 11:33:23] Vamos vers has logged in.
-[15/3/2023 11:38:37] Vamos vers has logged out.
-[15/3/2023 11:38:38] Vamos vers has logged in.
-[15/3/2023 11:42:16] > Saving server...
-[15/3/2023 11:42:16] > SAVE: Complete in 0.227 seconds using relational house storage.
-
-[15/3/2023 11:45:40] [Error - Spell Interface] 
-[15/3/2023 11:45:40] In a timer event called from: 
-[15/3/2023 11:45:40] data/spells/scripts/LvL200/saiyajin blast.lua:onCastSpell
-[15/3/2023 11:45:40] Description: 
-[15/3/2023 11:45:40] (luaDoCombat) Creature not found
-[15/3/2023 11:52:16] > Saving server...
-[15/3/2023 11:52:16] > SAVE: Complete in 0.224 seconds using relational house storage.
-[15/3/2023 11:52:25] > CLEAN: Removed 114 items from 659 tiles (659 were marked) in 0 seconds.
+[19/3/2023 14:29:36] Fhzdfh has logged in.
+[19/3/2023 14:29:48] Fhzdfh has logged out.
+[19/3/2023 14:29:48] Dfhdfh has logged in.
+[19/3/2023 14:29:49] Dfhdfh has logged out.
+[19/3/2023 14:29:49] Amoeba has logged in.
+[19/3/2023 14:29:50] Amoeba has logged out.
+[19/3/2023 14:29:50] Adfhdfh has logged in.
+[19/3/2023 14:29:57] Adfhdfh has logged out.
+[19/3/2023 14:29:57] Mamaco has logged in.
+[19/3/2023 14:29:58] Mamaco has logged out.
+[19/3/2023 14:29:59] Muie has logged in.
+[19/3/2023 14:29:59] Muie has logged out.
+[19/3/2023 14:30:0] Onitorrinco has logged in.
+[19/3/2023 14:30:0] Onitorrinco has logged out.
+[19/3/2023 14:30:1] Rasputia has logged in.
+[19/3/2023 14:30:8] Rasputia has logged out.
+[19/3/2023 14:30:8] Zdfhzdfh has logged in.
+[19/3/2023 14:30:12] Zdfhzdfh has logged out.
+[19/3/2023 14:30:12] Rasputia has logged in.
+[19/3/2023 14:39:26] > Saving server...
+[19/3/2023 14:39:26] > SAVE: Complete in 0.25 seconds using relational house storage.
+[19/3/2023 14:49:26] > Saving server...
+[19/3/2023 14:49:26] > SAVE: Complete in 0.241 seconds using relational house storage.
+[19/3/2023 14:59:26] > Saving server...
+[19/3/2023 14:59:26] > SAVE: Complete in 0.254 seconds using relational house storage.
+[19/3/2023 14:59:35] > CLEAN: Removed 0 items from 3 tiles (4 were marked) in 0 seconds.

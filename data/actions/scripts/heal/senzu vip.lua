@@ -11,7 +11,7 @@ doPlayerAddMana(cid, REG_MANA)
 doCreatureAddHealth(cid, REG_HEALTH)
 doCreatureSay(cid, 'Aaahhh! Senzu Vip !', TALKTYPE_ORANGE_1)
 doSendMagicEffect(pos1, 83)
-doRemoveItem(item.uid, 0)
+doRemoveItem(item.uid, 1)
 exhaustion.set(cid, storage, wait)
 elseif item.itemid == ITEM and exhaustion.get(cid, storage) == FALSE then
 REG_HEALTH = 160000

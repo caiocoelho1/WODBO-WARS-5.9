@@ -21,7 +21,7 @@ player2level = getPlayerLevel(player2.uid)
 player3level = getPlayerLevel(player3.uid)
 player4level = getPlayerLevel(player4.uid)
 
-questlevel = 150
+questlevel = 0
 
 if player1level >= questlevel and player2level >= questlevel and player3level >= questlevel and player4level >= questlevel then
 

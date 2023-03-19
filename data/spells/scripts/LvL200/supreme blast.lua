@@ -2,7 +2,7 @@ local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_DARKYELLOW)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat1, COMBAT_PARAM_EFFECT, 32)
-setCombatParam(combat1, COMBAT_PARAM_DISTANCEEFFECT, 39)
+setCombatParam(combat1, COMBAT_PARAM_DISTANCEEFFECT, 4)
 setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -58.3, 0, -59.15, 0)
  
 local function onCastSpell1(parameters)

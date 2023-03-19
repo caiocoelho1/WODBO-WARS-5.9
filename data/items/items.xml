@@ -2188,7 +2188,7 @@
 		<attribute key="absorbPercentAll" value="5" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="2199" article="a" name="Ultra God Buu">
+	<item id="2199" article="a" name="VOCATION BUU GOD">
 		<attribute key="weight" value="380" />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="charges" value="150" />
@@ -11014,7 +11014,7 @@
 	<item id="6526" article="a" name="skeleton decoration">
 		<attribute key="weight" value="1000" />
 	</item>
-	<item id="6527" article="a" name="Wars Souls Point" plural="Wars Souls Points">
+	<item id="6527" article="a" name="Donate Point" plural="Donate Points">
 		<attribute key="weight" value="5" />
 	</item>
 	<item id="6528" article="the" name="avenger">

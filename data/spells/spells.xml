@@ -6,6 +6,9 @@
 	<!-- Spells Iniciais -->
 	<instant name="Aura" words="aura" lvl="1" mana="10" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="Iniciais/aura.lua">
 	</instant>
+	<instant name="Super ball" words="super ball" lvl="700" mana="6000" prem="0" range="10" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="LvL700/super ball.lua">
+	<!-- Kaio -->
+	</instant>
 	<instant name="Gaura" words="gaura" lvl="1" mana="20" prem="1" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="Iniciais/gaura.lua">
 	</instant>
 	<instant name="Jump" words="jump" lvl="1" mana="1000" prem="1" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="Iniciais/jump.lua">
@@ -8349,7 +8352,7 @@
 		<vocation id="556"/>
 		<vocation id="557"/>
 	</instant>
-	<instant name="Muted" words="muted" lvl="250" mana="8000" maglv="1800" prem="0" range="10" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="LvL250/muted.lua">
+	<instant name="Muted" words="muted" lvl="250" mana="8000" maglv="100" prem="0" range="10" needtarget="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="LvL250/muted.lua">
 	<!-- Kaio -->
 		<vocation id="268"/>
 		<vocation id="269"/>

@@ -78,7 +78,6 @@
 	<talkaction words="powerball;Powerball;PowerBall;POWERBALL" event="script" value="powerball.lua"/>
 	<talkaction words="reverter;Reverter;REVERTER" event="script" value="reverter.lua"/>
 	<talkaction words="separar;Separar;SEPARAR" event="script" value="separar.lua"/>
-	<talkaction words="!frags" event="script" value="frags.lua"/>
 	<talkaction words="!online;/online" event="script" value="online.lua"/>
 	<talkaction words="!uptime;/uptime" event="script" value="uptime.lua"/>
 	<talkaction words="!pvp;/pvp" event="script" value="pvp.lua"/>
@@ -108,6 +107,8 @@
         <!-- Comprar AOL e BOL -->
 		<talkaction words="!save" script="salvarjogador.lua"/>
         <talkaction words="!bol" event="script" value="bol.lua"/>
+		<talkaction words="!bless" event="script" value="bless.lua"/>
+	<talkaction words="!frags" event="script" value="frags.lua"/>
 		
 	
 	<!-- Guilds -->

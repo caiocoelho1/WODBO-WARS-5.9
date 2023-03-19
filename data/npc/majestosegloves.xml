@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <npc name="Majestose Gloves [RITUAL]" script="majestosegloves.lua" walkinterval="0">
 	<health now="100" max="100"/>
-	<look type="885"/>
+	<look type="200"/>
 	<parameters>
 		<parameter key="module_shop" value="1"/>
 		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de fazer o {ritual} entregando-me sua poderosa divindade gloves ?. Você não vai se arrepender, pense bem."/>

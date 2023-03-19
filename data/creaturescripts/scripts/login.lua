@@ -51,7 +51,7 @@ end
 	end
 	registerCreatureEvent(cid, "FullHpMana")
 	registerCreatureEvent(cid, "AdvanceSave")
-	doPlayerPopupFYI(cid, "VEM AI NOVO SERVIDOR WODBOWARS 2 GLOBAL\nVA AGORA MESMO NA PAGINA DO FACEBOOK\nDO SERVER E CONFIRA ESSE NOVO LANSAMENTO\n\n\n\n")
+	
 	registerCreatureEvent(cid, "ZombieAttack")
 	registerCreatureEvent(cid, "BlessCheck")
 	registerCreatureEvent(cid, "advance")

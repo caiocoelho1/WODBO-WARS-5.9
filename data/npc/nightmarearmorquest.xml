@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <npc name="Nightmare Armor FREE 1 Semana" script="nightmarearmorquest.lua" walkinterval="0">
 	<health now="100" max="100"/>
-	<look type="400"/>
+	<look type="200"/>
 	<parameters>
 		<parameter key="module_shop" value="1"/>
 		<parameter key="message_greet" value="Olá, |PLAYERNAME|! gostaria de comprar uma {nightmare armor} por apenas 5500 demonic essences ?. Dropa no mesmo lugar onde pega eliezer coins e do mesmo monstro, aproveitem so vai ate dia 15/06/16 devido ao reset."/>

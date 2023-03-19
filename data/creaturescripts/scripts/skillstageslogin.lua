@@ -17,7 +17,7 @@ function onLogin(cid)
         doPlayerSetRate(cid, skill, skillRate) 
     end 
     if(showInfoOnLogin) then 
-        doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, getPlayerSkillRatesText(cid)) 
+        
     end 
     registerCreatureEvent(cid, "SkillStagesAdvance") 
     return TRUE 

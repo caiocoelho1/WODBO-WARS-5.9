@@ -4763,8 +4763,10 @@
 	</spawn>
 	<spawn centerx="43" centery="263" centerz="6" radius="15">
 		<monster name="Terminator" x="10" y="-7" z="6" spawntime="15" />
+		<monster name="Destroyer" x="7" y="-6" z="6" spawntime="60" />
 		<monster name="Janemba" x="-10" y="-4" z="6" spawntime="30" />
 		<monster name="Destroyer" x="-3" y="-2" z="6" spawntime="15" />
+		<monster name="Destroyer" x="5" y="-2" z="6" spawntime="60" />
 		<monster name="Terminator" x="3" y="5" z="6" spawntime="15" />
 		<monster name="Destroyer" x="11" y="5" z="6" spawntime="15" />
 	</spawn>
@@ -12145,7 +12147,6 @@
 	</spawn>
 	<spawn centerx="93" centery="168" centerz="7" radius="5">
 		<npc name="Minoshi" x="0" y="1" z="7" spawntime="60" />
-		<npc name="upgrades" x="1" y="5" z="7" spawntime="60" />
 		<monster name="Wolf" x="4" y="5" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="225" centery="168" centerz="7" radius="1">
@@ -12248,6 +12249,7 @@
 		<monster name="Gogetta Killer" x="-2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="86" centery="179" centerz="7" radius="5">
+		<npc name="upgrades" x="0" y="-5" z="7" spawntime="60" />
 		<npc name="wiss" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="245" centery="179" centerz="7" radius="1">
@@ -12379,6 +12381,9 @@
 	<spawn centerx="1241" centery="190" centerz="7" radius="5">
 		<monster name="Bills Faster" x="-4" y="-2" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="93" centery="191" centerz="7" radius="5">
+		<npc name="Boater" x="0" y="2" z="7" spawntime="30" />
+	</spawn>
 	<spawn centerx="1209" centery="191" centerz="7" radius="5">
 		<monster name="Bills Faster" x="4" y="3" z="7" spawntime="60" />
 	</spawn>
@@ -12461,11 +12466,6 @@
 		<monster name="Gogetta Killer" x="4" y="1" z="7" spawntime="60" />
 		<monster name="Gogetta Killer" x="-4" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="94" centery="196" centerz="7" radius="5">
-		<npc name="frostvocation" x="0" y="-1" z="7" spawntime="60" />
-		<npc name="Boater" x="-1" y="3" z="7" spawntime="30" />
-		<monster name="Purching Bag" x="-5" y="4" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="414" centery="196" centerz="7" radius="5">
 		<monster name="Pit Bull" x="4" y="-4" z="7" spawntime="60" />
 		<monster name="Pit Bull" x="-1" y="-2" z="7" spawntime="60" />
@@ -12491,7 +12491,6 @@
 		<monster name="Bills Faster" x="-5" y="-2" z="7" spawntime="60" />
 		<monster name="Bills Faster" x="-1" y="-2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="94" centery="199" centerz="7" radius="1" />
 	<spawn centerx="279" centery="199" centerz="7" radius="1">
 		<monster name="Boar" x="1" y="0" z="7" spawntime="30" />
 	</spawn>
@@ -12508,6 +12507,9 @@
 		<monster name="Bills Faster" x="-2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1242" centery="199" centerz="7" radius="5" />
+	<spawn centerx="89" centery="200" centerz="7" radius="1">
+		<monster name="Purching Bag" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="915" centery="200" centerz="7" radius="5">
 		<monster name="Gogetta Killer" x="-1" y="-3" z="7" spawntime="60" />
 		<monster name="Gogetta Killer" x="1" y="3" z="7" spawntime="60" />
@@ -13334,9 +13336,13 @@
 		<monster name="Terminator" x="1" y="-2" z="7" spawntime="15" />
 		<monster name="Destroyer" x="-10" y="1" z="7" spawntime="15" />
 		<monster name="Destroyer" x="13" y="1" z="7" spawntime="15" />
+		<monster name="Terminator" x="-5" y="2" z="7" spawntime="60" />
 		<monster name="Terminator" x="17" y="9" z="7" spawntime="15" />
+		<monster name="Terminator" x="7" y="12" z="7" spawntime="60" />
+		<monster name="Terminator" x="-7" y="13" z="7" spawntime="60" />
 		<monster name="Terminator" x="5" y="13" z="7" spawntime="15" />
 		<monster name="Destroyer" x="-2" y="14" z="7" spawntime="15" />
+		<monster name="Terminator" x="-3" y="18" z="7" spawntime="60" />
 		<monster name="Tank" x="9" y="29" z="7" spawntime="30" />
 	</spawn>
 	<spawn centerx="880" centery="276" centerz="7" radius="1">
@@ -14398,9 +14404,6 @@
 	<spawn centerx="388" centery="390" centerz="7" radius="1">
 		<monster name="Bojack" x="0" y="-1" z="7" spawntime="30" />
 	</spawn>
-	<spawn centerx="655" centery="390" centerz="7" radius="1">
-		<npc name="Yama" x="0" y="0" z="7" spawntime="30" />
-	</spawn>
 	<spawn centerx="200" centery="391" centerz="7" radius="1">
 		<monster name="Poison Fly" x="1" y="0" z="7" spawntime="30" />
 	</spawn>
@@ -14409,6 +14412,9 @@
 	</spawn>
 	<spawn centerx="432" centery="392" centerz="7" radius="1">
 		<monster name="Bojack" x="-1" y="-1" z="7" spawntime="30" />
+	</spawn>
+	<spawn centerx="655" centery="392" centerz="7" radius="1">
+		<npc name="Yama" x="0" y="0" z="7" spawntime="30" />
 	</spawn>
 	<spawn centerx="892" centery="392" centerz="7" radius="5">
 		<monster name="Fury Turles" x="2" y="-2" z="7" spawntime="60" />
@@ -20334,17 +20340,10 @@
 	<spawn centerx="120" centery="992" centerz="7" radius="5">
 		<npc name="ultra4" x="1" y="-2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1163" centery="992" centerz="7" radius="5">
-		<npc name="nightmareboots" x="-2" y="2" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1042" centery="993" centerz="7" radius="6">
 		<monster name="Fury Turles" x="5" y="-4" z="7" spawntime="60" />
 		<monster name="Fury Turles" x="-6" y="-2" z="7" spawntime="60" />
 		<monster name="Fury Turles" x="-1" y="3" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1174" centery="993" centerz="7" radius="5">
-		<npc name="hornorbootsp" x="-4" y="0" z="7" spawntime="60" />
-		<npc name="hornorlegsp" x="3" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="469" centery="994" centerz="7" radius="25">
 		<monster name="Mark" x="-23" y="-19" z="7" spawntime="60" />
@@ -20355,18 +20354,40 @@
 		<monster name="Mark" x="-16" y="2" z="7" spawntime="60" />
 		<monster name="Mark" x="-16" y="11" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1217" centery="994" centerz="7" radius="5">
-		<npc name="helmetvip" x="-4" y="-1" z="7" spawntime="60" />
+	<spawn centerx="1217" centery="994" centerz="7" radius="5" />
+	<spawn centerx="1166" centery="995" centerz="7" radius="1">
+		<npc name="hornorbootsp" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1171" centery="995" centerz="7" radius="1">
+		<npc name="hornorlegsp" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1176" centery="995" centerz="7" radius="1">
+		<npc name="hornoramorp" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1181" centery="995" centerz="7" radius="1">
+		<npc name="hornorhelmetp" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1191" centery="995" centerz="7" radius="1">
+		<npc name="nightmaresword" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1196" centery="995" centerz="7" radius="1">
+		<npc name="nightmareboots" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1201" centery="995" centerz="7" radius="1">
+		<npc name="nightmarelegs" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1206" centery="995" centerz="7" radius="1">
+		<npc name="nightmarearmor" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1211" centery="995" centerz="7" radius="1">
+		<npc name="nightmarehelmet" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="985" centery="996" centerz="7" radius="6">
 		<monster name="Fury Shenron" x="3" y="-3" z="7" spawntime="60" />
 		<monster name="Fury Shenron" x="5" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1185" centery="996" centerz="7" radius="5">
-		<npc name="hornoramorp" x="-2" y="-3" z="7" spawntime="60" />
-		<npc name="hornorhelmetp" x="4" y="-3" z="7" spawntime="60" />
-		<npc name="balavip" x="-2" y="4" z="7" spawntime="60" />
-		<npc name="arcovip" x="5" y="4" z="7" spawntime="60" />
+	<spawn centerx="1162" centery="996" centerz="7" radius="1">
+		<npc name="hornedvipsword" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1021" centery="997" centerz="7" radius="6">
 		<monster name="Dino" x="-4" y="-4" z="7" spawntime="60" />
@@ -20374,38 +20395,41 @@
 		<monster name="Fury Turles" x="-4" y="0" z="7" spawntime="60" />
 		<monster name="Fury Turles" x="3" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1196" centery="997" centerz="7" radius="5">
-		<npc name="legsvip" x="1" y="-4" z="7" spawntime="60" />
-		<npc name="nightmaresword" x="0" y="3" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1207" centery="997" centerz="7" radius="5">
-		<npc name="armorvip" x="-1" y="-4" z="7" spawntime="60" />
-		<npc name="vipsword" x="-4" y="3" z="7" spawntime="60" />
-		<npc name="bootsvip" x="2" y="3" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1153" centery="998" centerz="7" radius="5">
-		<npc name="hornedvipsword" x="3" y="-3" z="7" spawntime="60" />
-		<npc name="nightmarehelmet" x="4" y="5" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1004" centery="999" centerz="7" radius="6">
 		<monster name="Dino" x="-3" y="-6" z="7" spawntime="60" />
 		<monster name="Fury Shenron" x="-4" y="-3" z="7" spawntime="60" />
 		<monster name="Fury Turles" x="3" y="-1" z="7" spawntime="60" />
 		<monster name="Fury Shenron" x="-4" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1221" centery="999" centerz="7" radius="5">
-		<npc name="divindadeglovess" x="-4" y="1" z="7" spawntime="60" />
+	<spawn centerx="1161" centery="1001" centerz="7" radius="1">
+		<npc name="vipsword" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1164" centery="1002" centerz="7" radius="5">
-		<npc name="majestoseboots" x="-2" y="-2" z="7" spawntime="60" />
-		<npc name="majestosearmor" x="3" y="-2" z="7" spawntime="60" />
-		<npc name="nightmaregloves" x="-2" y="4" z="7" spawntime="60" />
-		<npc name="majestoseshield" x="5" y="4" z="7" spawntime="60" />
+	<spawn centerx="1166" centery="1001" centerz="7" radius="1">
+		<npc name="bootsvip" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1175" centery="1002" centerz="7" radius="5">
-		<npc name="majestosehelmet" x="-3" y="-2" z="7" spawntime="60" />
-		<npc name="majestoselegs" x="2" y="-2" z="7" spawntime="60" />
-		<npc name="warsbackpack" x="1" y="4" z="7" spawntime="60" />
+	<spawn centerx="1171" centery="1001" centerz="7" radius="1">
+		<npc name="legsvip" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1176" centery="1001" centerz="7" radius="1">
+		<npc name="armorvip" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1181" centery="1001" centerz="7" radius="1">
+		<npc name="helmetvip" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1191" centery="1001" centerz="7" radius="1">
+		<npc name="nightmaregloves" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1196" centery="1001" centerz="7" radius="1">
+		<npc name="divindadeglovess" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1201" centery="1001" centerz="7" radius="1">
+		<npc name="vipshields" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1206" centery="1001" centerz="7" radius="1">
+		<npc name="arcovip" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1211" centery="1001" centerz="7" radius="1">
+		<npc name="balavip" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="88" centery="1003" centerz="7" radius="5">
 		<npc name="ultra5" x="-2" y="-1" z="7" spawntime="60" />
@@ -20413,28 +20437,39 @@
 	<spawn centerx="119" centery="1003" centerz="7" radius="5">
 		<npc name="ultra10" x="2" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1174" centery="1004" centerz="7" radius="5" />
-	<spawn centerx="1186" centery="1005" centerz="7" radius="5">
-		<npc name="mensagemdonate" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="1181" centery="1005" centerz="7" radius="5">
+		<npc name="divindadearmor" x="-5" y="2" z="7" spawntime="60" />
+		<npc name="divindadehelmet" x="0" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1220" centery="1007" centerz="7" radius="5">
-		<npc name="divindadesword" x="-3" y="-1" z="7" spawntime="60" />
-		<npc name="champa" x="-3" y="5" z="7" spawntime="60" />
-		<npc name="voccabba" x="2" y="5" z="7" spawntime="60" />
+	<spawn centerx="1161" centery="1007" centerz="7" radius="1">
+		<npc name="divindadesword" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1199" centery="1009" centerz="7" radius="5">
-		<npc name="divindadelegs" x="0" y="-3" z="7" spawntime="60" />
-		<npc name="billsevolution" x="2" y="3" z="7" spawntime="60" />
+	<spawn centerx="1166" centery="1007" centerz="7" radius="1">
+		<npc name="divindadeboots" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1188" centery="1010" centerz="7" radius="5">
-		<npc name="divindadearmor" x="5" y="-5" z="7" spawntime="60" />
-		<npc name="senzuvip" x="-1" y="2" z="7" spawntime="60" />
+	<spawn centerx="1171" centery="1007" centerz="7" radius="1">
+		<npc name="divindadelegs" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1210" centery="1010" centerz="7" radius="5">
-		<npc name="divindadeboots" x="-5" y="-4" z="7" spawntime="60" />
-		<npc name="divindadehelmet" x="1" y="-4" z="7" spawntime="60" />
-		<npc name="paikuhans" x="-3" y="2" z="7" spawntime="60" />
-		<npc name="divindadecola" x="2" y="2" z="7" spawntime="60" />
+	<spawn centerx="1176" centery="1007" centerz="7" radius="1" />
+	<spawn centerx="1181" centery="1007" centerz="7" radius="1" />
+	<spawn centerx="1191" centery="1007" centerz="7" radius="1">
+		<npc name="senzuvip" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1196" centery="1007" centerz="7" radius="1">
+		<npc name="ringvip" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1201" centery="1007" centerz="7" radius="1">
+		<npc name="warsbackpack" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1206" centery="1007" centerz="7" radius="1">
+		<npc name="majestoseshield" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1211" centery="1007" centerz="7" radius="1">
+		<npc name="amuletvip" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1207" centery="1010" centerz="7" radius="5">
+		<npc name="paikuhans" x="-1" y="5" z="7" spawntime="60" />
+		<npc name="divindadecola" x="4" y="5" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1103" centery="1011" centerz="7" radius="5">
 		<monster name="Bojack" x="-4" y="4" z="7" spawntime="60" />
@@ -20444,11 +20479,6 @@
 	<spawn centerx="1115" centery="1012" centerz="7" radius="5">
 		<monster name="Bojack" x="-2" y="3" z="7" spawntime="60" />
 		<monster name="Bojack" x="3" y="3" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1218" centery="1012" centerz="7" radius="5" />
-	<spawn centerx="1161" centery="1013" centerz="7" radius="5">
-		<npc name="nightmarelegs" x="-5" y="-1" z="7" spawntime="60" />
-		<npc name="nightmarearmor" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1249" centery="1013" centerz="7" radius="30">
 		<monster name="Azure Quest" x="-6" y="-9" z="7" spawntime="60" />
@@ -20495,13 +20525,30 @@
 	<spawn centerx="118" centery="1014" centerz="7" radius="5">
 		<npc name="ultra2" x="3" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1170" centery="1015" centerz="7" radius="5">
-		<npc name="vipshields" x="-2" y="-3" z="7" spawntime="60" />
-		<npc name="amuletvip" x="4" y="-3" z="7" spawntime="60" />
+	<spawn centerx="1196" centery="1014" centerz="7" radius="1">
+		<npc name="champa" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1177" centery="1015" centerz="7" radius="5">
-		<npc name="ringvip" x="3" y="-3" z="7" spawntime="60" />
+	<spawn centerx="1201" centery="1014" centerz="7" radius="1">
+		<npc name="billsevolution" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1207" centery="1014" centerz="7" radius="1" />
+	<spawn centerx="1161" centery="1015" centerz="7" radius="1" />
+	<spawn centerx="1166" centery="1015" centerz="7" radius="1">
+		<npc name="majestoseboots" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1171" centery="1015" centerz="7" radius="1">
+		<npc name="majestoselegs" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1176" centery="1015" centerz="7" radius="1">
+		<npc name="majestosearmor" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1181" centery="1015" centerz="7" radius="1">
+		<npc name="majestosehelmet" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1191" centery="1015" centerz="7" radius="1">
+		<npc name="voccabba" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1211" centery="1015" centerz="7" radius="1" />
 	<spawn centerx="1352" centery="1015" centerz="7" radius="5">
 		<monster name="Azure Quest" x="-1" y="-3" z="7" spawntime="60" />
 		<monster name="Azure Quest" x="2" y="-2" z="7" spawntime="60" />

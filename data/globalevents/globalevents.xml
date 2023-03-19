@@ -2,9 +2,8 @@
 <globalevents>       
  <globalevent name="AntiClone" type="start" event="script" value="Check.lua"/>
 <globalevent name="HouseClean" time="03:00" event="script" value="houseclean.lua"/>
- <globalevent name="texto" interval="1000" script="texto.lua" />
-  <globalevent name="invasion" time="21:02" event="script" value="invasion.lua"/>
-<globalevent name="invasions" time="18:00" event="script" value="invasions.lua"/>        
+ <globalevent name="texto" interval="2000" script="texto.lua" />
+      
   <event type="login" name="Mensagem" script="msg.lua"/>
 <globalevent name="effects" interval="1500" script="texto1.lua"/>	
         <globalevent name="prop" interval="130000" event="script" value="Propaganda.lua"/>

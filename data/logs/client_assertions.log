@@ -19,3 +19,50 @@ Position<=Size-2
 Wed Mar 15 10:51:31 2023
 Debug Assertion 8.60 Utils.cpp 501
 
+----- 17/3/2023 13:56:54 - Amoeba (192.168.15.8) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 11TH GEN 
+Video Card: NVIDIA GeForce RTX 3050
+Last Packet Types: 150 180 180 132 132 132 180 180 180 180
+Last Packet: 180 018 009 000 033 116 101 099 110 105 099 097 115 150 001 000
+Player Position: [100,178,7]
+Player Name: Amoeba (Offline)
+Player Action: 049 057 050 046 049 054 056 046 049 053 046 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 150) (MainWindow = 41386024), reason:
+Communication.cpp 2619: exception occurred, reason:
+Network.cpp 504: exception occurred, reason:
+Utils.cpp 501: assertion failed (Position = 34) (Size = 34), reason:
+Position<=Size-2
+Fri Mar 17 13:56:38 2023
+Debug Assertion 8.60 Utils.cpp 501
+
+----- 18/3/2023 16:25:11 - Dfhdfh (192.168.15.8) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: Intel Core i5 11TH GEN 
+Video Card: NVIDIA GeForce RTX 3050
+Last Packet Types: 180 160 132 180 160 160 162 101 109 131
+Last Packet: 109 251 001 239 000 007 001 251 001 238 000 007 101 198 001 000
+Player Position: [507,238,7]
+Player Name: Dfhdfh (Offline)
+Player Action: 049 057 050 046 049 054 056 046 049 053 046 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28280B8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 1682: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 800: exception occurred, reason:
+GUI.cpp 1575: exception occurred, reason:
+ConsoleWindow.cpp 147: exception occurred, reason:
+ConsoleWindow.cpp 378: exception occurred, reason:
+Talk.cpp 80: none is talking
+Sat Mar 18 16:24:26 2023
+Debug Assertion 8.60 Talk.cpp 80
+

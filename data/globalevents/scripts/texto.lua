@@ -16,9 +16,10 @@ local config = {
         ["EVENTO"] = { x = 661, y = 390, z = 7 },
         ["HALLOWEEN QUEST"] = { x = 1170, y = 144, z = 7 },
         ["RB QUEST"] = { x = 93, y = 169, z = 7 },
-	["NEW TRAINERS"] = { x = 92, y = 175, z = 7 },
-	["Grave Senzu"] = { x = 652, y = 395, z = 7 },
-        ["Donate Points"] = { x = 106, y = 173, z = 7 },
+	["NEW TRAINERS"] = { x = 91, y = 175, z = 7 },
+        ["Donate??"] = { x = 97, y = 178, z = 7 },
+		["Itens"] = { x = 102, y = 177, z = 6 },
+		["Donate"] = { x = 103, y = 177, z = 6 },
 		["Viajar"] = { x = 109, y = 175, z = 7 },
 		["Tasks"] = { x = 104, y = 167, z = 6 },
 

@@ -1,6 +1,6 @@
 local msgs = {
         "Não deixe de visitar nosso website e conferir as novidades o nosso shop, promoções e eventos!",
-        "O melhor Wodbo está aqui (WODBO WARS)",
+        "O melhor dbo está aqui",
 }
  
 function onThink(interval)
